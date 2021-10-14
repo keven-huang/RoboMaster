@@ -1,0 +1,3 @@
+/home/agent/Applications/MindVision/demo/OpenCv/build/CMakeFiles/rebuild_cache.dir
+/home/agent/Applications/MindVision/demo/OpenCv/build/CMakeFiles/edit_cache.dir
+/home/agent/Applications/MindVision/demo/OpenCv/build/CMakeFiles/demo.dir
